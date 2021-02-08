@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **cdias900/cdias900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img alt="Thonk" src="https://i.imgur.com/zXAA3CV.gif">
+</p>
