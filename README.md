@@ -1,20 +1,9 @@
-<!--
-### Hi there 👋
-
-**cdias900/cdias900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img alt="Thonk" src="https://i.imgur.com/zXAA3CV.gif">
+</p>
+
+---
+
+<p align="center">
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=cdias900&count_private=true&show_icons=true&theme=dracula" />
 </p>
